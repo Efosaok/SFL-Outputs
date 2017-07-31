@@ -1,0 +1,26 @@
+{
+  "name": "sfl-outputs",
+  "version": "1.0.0",
+  "description": "Outputs for self learning clinic day one",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/testforaritgeo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efosaok/SFL-Outputs.git"
+  },
+  "author": "Efosa Okpugie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efosaok/SFL-Outputs/issues"
+  },
+  "homepage": "https://github.com/Efosaok/SFL-Outputs#readme",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
